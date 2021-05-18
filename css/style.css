@@ -39,18 +39,35 @@ nav
 .avatar
 {
     background-color: #1abc9c;
-    color: white;
+    
 }
 
 
-.avatar img
-{
-    width: 15%;
-    height: auto;    
-}
 
-h1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* DEBUG */
+.debug .avatar
 {
-    font-weight: bold;
-    text-transform: uppercase;
+    height: 400px;
 }
