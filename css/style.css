@@ -64,7 +64,16 @@ h1
     color: white;
 }
 
-.fot-top a
+.fot-top a:not(.s-boot)
+{
+    text-decoration: none;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #fff;
+    padding: 6px;
+}
+
+.s-boot
 {
     color: #1eb197;
     text-decoration: none;
@@ -72,7 +81,7 @@ h1
 
 .fot-top i
 {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 
