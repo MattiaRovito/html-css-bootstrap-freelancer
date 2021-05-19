@@ -10,7 +10,7 @@ nav
 
 
 /* JUMBOTRON */
-.jumbotron
+.jumbotron, .about
 {
     background-color: #1abc9c;
     padding: 40px;
@@ -44,4 +44,6 @@ h1
     width: 100%;
     border-radius: 15px;
 }
+
+
 
