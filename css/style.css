@@ -39,33 +39,9 @@ h1
 /* MAIN */
 
 
-/* .purple
+.portfolio img
 {
-    background-color: #ba4b63;
-}
-
-.lightblue
-{
-    background-color: #1ea4b6;
-}
-
-.black
-{
-    background-color: #140f0f;
-}
-
-.bluette
-{
-    background-color: #1c83c1;
-}
-
-.blue
-{
-    background-color: #0e38b5;
-}
-
-.lightbeige
-{
-    background-color: #ccb2a3;
+    width: 100%;
+    border-radius: 15px;
 }
 
