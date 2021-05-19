@@ -57,3 +57,26 @@ h1
 {
     padding: 40px;
 }
+
+.fot-top
+{
+    background-color: #3a546d;
+    color: white;
+}
+
+.fot-top a
+{
+    color: #1eb197;
+    text-decoration: none;
+}
+
+.fot-top i
+{
+    font-size: 20px;
+}
+
+
+.social a
+{
+    color: white;
+}
