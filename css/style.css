@@ -27,12 +27,18 @@ h1
     font-weight: bold;
 }
 
-
-
- #star::before, #star::after
+.linew
 {
-    content: "__________";
+    width: 75px;
+    border-bottom: 2px solid white;
 }
+
+.lineb
+{
+    width: 75px;
+    border-bottom: 2px solid black;
+}
+
 
 
 
